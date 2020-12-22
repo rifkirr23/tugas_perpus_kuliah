@@ -1,0 +1,135 @@
+[07-Apr-2020 13:50:01 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 13:50:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 13:54:04 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 13:55:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 13:55:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 13:56:42 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:00:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:00:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:03:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:04:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:04:59 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:05:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[07-Apr-2020 14:05:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mcustomer::get_customer() in /home/wilopoca/public_html/office/application/models/Mcustomer.php on line 46
+[20-Apr-2020 09:31:20 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Invoice_barang::bayar_deposit() in /home/wilopoca/public_html/office/application/controllers/admin/Invoice_barang.php on line 105
+[30-Apr-2020 01:39:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 28572448 bytes) in /home/wilopoca/public_html/office/system/libraries/Email.php on line 1430
+[13-May-2020 05:46:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wilopoca/public_html/office/index.php on line 236
+[23-Jun-2020 14:08:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mresi::get_resi() in /home/wilopoca/public_html/office/application/models/Mresi.php on line 91
+[15-Jul-2020 06:15:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/wilopoca/public_html/office/index.php on line 73
+[29-Jul-2020 15:59:12 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 12288 bytes) in /home/wilopoca/public_html/office/system/database/drivers/mysqli/mysqli_result.php on line 229
+[29-Jul-2020 16:01:54 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 12288 bytes) in /home/wilopoca/public_html/office/system/database/drivers/mysqli/mysqli_result.php on line 229
+[29-Jul-2020 16:03:16 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 209715200 bytes exhausted (tried to allocate 12288 bytes) in /home/wilopoca/public_html/office/system/database/drivers/mysqli/mysqli_result.php on line 229
+[19-Aug-2020 10:00:16 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:00:26 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:01:05 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:01:06 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:01:08 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:01:09 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[19-Aug-2020 10:01:10 Asia/Jakarta] PHP Fatal error:  Only variables can be passed by reference in /home/wilopoca/public_html/office/application/controllers/admin/Customer.php on line 138
+[02-Sep-2020 15:41:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mobilsj::index() in /home/wilopoca/public_html/office/application/controllers/admin/Mobilsj.php on line 19
+[09-Sep-2020 13:00:49 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:00:50 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:00:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:00:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:29 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:34 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:35 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:36 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:41 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:01:48 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:28 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:30 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:54 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:02:57 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:07 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:16 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:17 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:25 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:31 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:41 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:49 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:03:54 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:07 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:11 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:26 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:26 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:29 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:42 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:48 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:49 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:50 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:04:56 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:02 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:07 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:08 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:23 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:36 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:48 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:52 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:53 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:05:56 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:01 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:06 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:16 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:17 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:18 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:21 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:27 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:34 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:55 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:06:55 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:01 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:25 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:26 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:07:27 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:09 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:27 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:32 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:33 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:35 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[09-Sep-2020 13:08:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Mbarang::deadline_status() in /home/wilopoca/public_html/office/application/models/Mbarang.php on line 289
+[10-Sep-2020 10:25:19 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Acustomer::encrypt_decrypt() in /home/wilopoca/public_html/office/application/controllers/api/Acustomer.php on line 708
+[10-Sep-2020 10:25:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Acustomer::encrypt_decrypt() in /home/wilopoca/public_html/office/application/controllers/api/Acustomer.php on line 708
